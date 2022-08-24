@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Santiago",
+      "empresa": "Goloso",
+      "email": "correo@correo.com",
+      "telefono": "2365412583",
+      "notas": "Empleado exitoso",
+      "id": 4
+    },
+    {
+      "nombre": "carlos",
+      "empresa": "Goloso",
+      "email": "correo@correo.com",
+      "telefono": "2365412583",
+      "notas": "sad",
+      "id": 5
+    },
+    {
+      "nombre": "Roberto",
+      "empresa": "tu hermana sa",
+      "email": "correo@correo.com",
+      "telefono": "2365412583",
+      "notas": "",
+      "id": 6
+    },
+    {
+      "nombre": "gasto",
+      "empresa": "Goloso",
+      "email": "correo@correo.com",
+      "telefono": "1254789541",
+      "notas": "",
+      "id": 8
+    },
+    {
+      "nombre": "Romina",
+      "empresa": "Goloso",
+      "email": "correo@correo.com",
+      "telefono": "1254789541",
+      "notas": "",
+      "id": 10
+    },
+    {
+      "nombre": "gasto",
+      "empresa": "Goloso",
+      "email": "correo@correo.com",
+      "telefono": "1254789541",
+      "notas": "",
+      "id": 11
+    }
+  ]
+}
