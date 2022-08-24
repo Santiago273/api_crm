@@ -25,14 +25,6 @@
       "id": 6
     },
     {
-      "nombre": "gasto",
-      "empresa": "Goloso",
-      "email": "correo@correo.com",
-      "telefono": "1254789541",
-      "notas": "",
-      "id": 8
-    },
-    {
       "nombre": "Romina",
       "empresa": "Goloso",
       "email": "correo@correo.com",
